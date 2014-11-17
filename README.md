@@ -1,4 +1,5 @@
 DEFileUpload
 ============
 
-a file upload based on jQuery, motivated davgothic's ajaxfileupload http://github.com/davgothic/AjaxFileUpload
+a file upload based on jQuery, motivated by davgothic's  
+[AjaxFileUpload](http://github.com/davgothic/AjaxFileUpload)
